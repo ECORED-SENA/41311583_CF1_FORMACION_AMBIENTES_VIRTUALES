@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="451.44" height="92.37" viewBox="0 0 451.44 92.37">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.68" stop-color="#acc2d4"/>
+      <stop offset="0.72" stop-color="#bbcddc"/>
+      <stop offset="0.84" stop-color="#e0e8ef"/>
+      <stop offset="0.94" stop-color="#f7f9fb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-735 -494)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="40.8" cy="40.8" r="40.8" transform="translate(765.61 504.77)" fill="url(#radial-gradient)"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="35.68" cy="35.68" r="35.68" transform="translate(771.23 503.73)" fill="#fff"/>
+    <circle id="Elipse_3" data-name="Elipse 3" cx="32.15" cy="32.15" r="32.15" transform="translate(765.039 521.676) rotate(-22.04)" fill="#ff3654"/>
+    <circle id="Elipse_4" data-name="Elipse 4" cx="40.8" cy="40.8" r="40.8" transform="translate(868.41 504.77)" fill="url(#radial-gradient-2)"/>
+    <circle id="Elipse_5" data-name="Elipse 5" cx="35.68" cy="35.68" r="35.68" transform="translate(874.03 503.73)" fill="#fff"/>
+    <circle id="Elipse_6" data-name="Elipse 6" cx="32.15" cy="32.15" r="32.15" transform="matrix(0.233, -0.972, 0.972, 0.233, 870.954, 563.186)" fill="#00c3e6"/>
+    <circle id="Elipse_7" data-name="Elipse 7" cx="40.8" cy="40.8" r="40.8" transform="translate(971.22 504.77)" fill="url(#radial-gradient-2)"/>
+    <circle id="Elipse_8" data-name="Elipse 8" cx="35.68" cy="35.68" r="35.68" transform="translate(976.83 503.73)" fill="#fff"/>
+    <circle id="Elipse_9" data-name="Elipse 9" cx="32.15" cy="32.15" r="32.15" transform="translate(970.643 521.684) rotate(-22.04)" fill="#ff9d00"/>
+    <circle id="Elipse_10" data-name="Elipse 10" cx="40.8" cy="40.8" r="40.8" transform="translate(1074.02 504.77)" fill="url(#radial-gradient-2)"/>
+    <circle id="Elipse_11" data-name="Elipse 11" cx="35.68" cy="35.68" r="35.68" transform="translate(1079.64 503.73)" fill="#fff"/>
+    <circle id="Elipse_12" data-name="Elipse 12" cx="32.15" cy="32.15" r="32.15" transform="translate(1076.622 563.3) rotate(-76.71)" fill="#00b59a"/>
+    <path id="Trazado_1" data-name="Trazado 1" d="M380.32,89.33a44.72,44.72,0,0,1-44.66-43.92H321.43a.74.74,0,0,1-.75-.75,43.168,43.168,0,1,0-86.335,0,.75.75,0,0,1-.745.75H219.37a44.665,44.665,0,1,1-89.33,0H115.82a.74.74,0,0,1-.75-.75,43.168,43.168,0,1,0-86.335,0,.74.74,0,0,1-.745.75H2.68a.75.75,0,0,1,0-1.5H27.25a44.658,44.658,0,1,1,89.315,0H130.8a.76.76,0,0,1,.75.75,43.16,43.16,0,0,0,86.32,0,.76.76,0,0,1,.75-.75h14.24a44.657,44.657,0,1,1,89.315,0H336.4a.75.75,0,0,1,.75.75,43.167,43.167,0,1,0,86.335,0,.75.75,0,0,1,.745-.75h24.53a.75.75,0,1,1,0,1.5H425a44.72,44.72,0,0,1-44.68,43.92Z" transform="translate(735 494.75)"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M448.62,41.84a2.82,2.82,0,1,1-2.82,2.82A2.82,2.82,0,0,1,448.62,41.84Z" transform="translate(735 494.75)"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M2.82,41.84a2.82,2.82,0,1,0,2.82,2.82,2.82,2.82,0,0,0-2.82-2.82Z" transform="translate(735 494.75)"/>
+    <text id="Aprendiz" transform="translate(785.9 541.66)" fill="#fdfeff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Aprendiz</tspan></text>
+    <text id="Aspirante" transform="translate(885.09 541.66)" fill="#fdfeff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Aspirante</tspan></text>
+    <text id="Funcionario" transform="translate(983.95 541.66)" fill="#fdfeff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Funcionario</tspan></text>
+    <text id="Instructor" transform="translate(1091.89 541.66)" fill="#fdfeff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Instructor</tspan></text>
+  </g>
+</svg>
